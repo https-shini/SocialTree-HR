@@ -11,7 +11,7 @@
 ## ☆ Hospedagem
 
 - Acesse o link abaixo e veja meu código hospedado online.<br>
-https://https-shini.github.io/Social-Tree/
+https://https-shini.github.io/SocialTree-HR/
 
 ## ☆ Tecnologias
 
